@@ -1,0 +1,12 @@
+{
+	"id": 9102804,
+	"epoch_second": 1577101521,
+	"problem_id": "arc081_a",
+	"contest_id": "abc071",
+	"user_id": "kentarok",
+	"language": "Ruby (2.3.3)",
+	"point": 300,
+	"length": 418,
+	"result": "AC",
+	"execution_time": 97
+}

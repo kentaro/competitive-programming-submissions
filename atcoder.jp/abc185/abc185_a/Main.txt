@@ -1,0 +1,15 @@
+defmodule Main do
+  def main do
+    nums = IO.read(:line)
+      |> String.trim()
+      |> String.split(" ")
+      |> Enum.map(&String.to_integer/1)
+
+    solve(nums)
+      |> IO.puts()
+  end
+  
+  def solve(nums) do
+    Enum.min(nums)
+  end
+end
