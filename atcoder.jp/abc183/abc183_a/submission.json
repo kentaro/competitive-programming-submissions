@@ -1,0 +1,12 @@
+{
+	"id": 19279305,
+	"epoch_second": 1610190669,
+	"problem_id": "abc183_a",
+	"contest_id": "abc183",
+	"user_id": "kentarok",
+	"language": "Elixir (1.10.2)",
+	"point": 100,
+	"length": 340,
+	"result": "AC",
+	"execution_time": 404
+}
